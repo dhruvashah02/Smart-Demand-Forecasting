@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+plotly
+sqlalchemy
+psycopg[binary]
+pytest
+httpx
